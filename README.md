@@ -1,4 +1,6 @@
 🌌 Neon Social
+
+
 Neon Social is a vibrant cyberpunk-inspired social app where you can share your thoughts, pin your favorite visuals, and curate a glowing personal profile. It blends the fast-paced feed of X with the visual boards of Pinterest — all wrapped in an electrifying neon aesthetic.
 
 ✨ Features
